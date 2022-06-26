@@ -6,9 +6,6 @@
 </em></p>
 
 
-<iframe src="https://gifer.com/embed/1uN" width=480 height=366.720 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
