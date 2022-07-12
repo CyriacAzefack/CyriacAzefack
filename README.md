@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,14 +52,13 @@ Sunday       15 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Dart                     2 hrs 17 mins       █████████████████████████   99.78% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +79,5 @@ Dart                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CyriacAzefack/CyriacAzefack/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2022 18:49:25 UTC
+ Last Updated on 12/07/2022 09:43:21 UTC
 <!--END_SECTION:waka-->
