@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,5 +79,5 @@ Dart                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CyriacAzefack/CyriacAzefack/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 09:43:47 UTC
+ Last Updated on 15/07/2022 09:43:35 UTC
 <!--END_SECTION:waka-->
