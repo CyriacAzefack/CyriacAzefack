@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -65,11 +65,11 @@ No Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
 
 ```
 
@@ -79,5 +79,5 @@ Dart                     3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CyriacAzefack/CyriacAzefack/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 18:49:54 UTC
+ Last Updated on 16/07/2022 09:41:39 UTC
 <!--END_SECTION:waka-->
